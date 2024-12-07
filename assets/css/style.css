@@ -1065,17 +1065,3 @@ Resume sections - new code
 .footer-copyright p a:hover {
   color: #37b3ed;
 }
-
-
-/* Maintain proper structure for the rest of the sections similar to above */
-
-/*--------------------------------------------------------------
-# Fix and Structure Tips
---------------------------------------------------------------*/
-/* Use variables for colors if possible to improve readability */
-:root {
-  --primary-color: #149ddd;
-  --secondary-color: #37b3ed;
-  --dark-color: #040b14;
-  --light-color: #f5f8fd;
-}
